@@ -1,0 +1,329 @@
+{
+  "brand_name": "توتي كافيه",
+  "tagline": "تفرد مشروباتنا بطابع خاص ومذاق مميز دائما ما نبحث على الأعلى جودة ولذلك قمنا بإنشاء معمل حلويات خاص بنا لصناعة الحلويات الطازجة والمعدة يوميا تقديراً لثقة عملائنا بنا.",
+  "description": "تفرد مشروباتنا بطابع خاص ومذاق مميز دائما ما نبحث على الأعلى جودة ولذلك قمنا بإنشاء معمل حلويات خاص بنا لصناعة الحلويات الطازجة والمعدة يوميا تقديرا لثقة عملائنا بنا.",
+  "logo": "assets/logo.png",
+  "contact": {
+    "phone": "0114520184",
+    "email": "info@tutticafe.net"
+  },
+  "headquarters": {
+    "address": "طريق الملك عبدالعزيز - حي الربيع - الرياض - المملكة العربية السعودية",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=24.795354,46.656003"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/tutticafee/?igshid=fo23fk2kqsei&fbclid=IwAR0fx-SkJhJC82tmSE4cTfVlxaifC8ikprkPO5ZmFI9nsY1WJRodiiK_eSM",
+    "twitter": "https://twitter.com/tutticafe?fbclid=IwAR3hYIaT7Adfn1AWfRZrm-jzU_2Kr7cOuqHgvylN3y6k2tRZmy4S8qNC4Mc"
+  },
+  "about": {
+    "sections": {
+      "أهدافنا": "تقديم مجموعة متنوعة من المشروبات والمأكولات تجمع بين التميز والتنوع وتطويرها باستمرار لتلامس رغبة عملائنا",
+      "قصتنا": "منذ بداية توتي كافيه عام 1990م عمل اصحابه على مواكبة صناعة القهوة وتطويرها وتحسين الطعم لكي يتناسب مع جميع الأذواق وتقديم تشكيلة متنوعة من المأكولات من جميع أنحاء العالم وقد تم اعتماد التفرد في صناعة منتجاتنا ، وتخصيص ورش عمل لتحسين وابتكارمذاقات جديدة تميزنا",
+      "رؤيتنا": "الريادة على المستوى المحلي والخروج للعالمية بجودة منتجاتنا ونشر علامتنا التجارية",
+      "مهمتنا": "تطبيق المعايير العالمية حول الاغذية من أجل كسب ثقة عملائنا وولائهم وتهيئة المكان الملائم بأجواء هادئة تناسب تطلعاتهم",
+      "قيمنا": "رفع الجودة عن طريق الإهتمام بصحة وسلامة الأغذية والإبداع والإبتكار فيما نقدمه وسرعة الإنجاز والعناية في خدمة عملائنا",
+      "منتجاتنا": "تفرد مشروباتنا بطابع خاص ومذاق مميز دائما ما نبحث على الأعلى جودة ولذلك قمنا بإنشاء معمل حلويات خاص بنا لصناعة الحلويات الطازجة والمعدة يوميا تقديرا لثقة عملائنا بنا."
+    },
+    "story": "منذ بداية توتي كافيه عام 1990م عمل اصحابه على مواكبة صناعة القهوة وتطويرها وتحسين الطعم لكي يتناسب مع جميع الأذواق وتقديم تشكيلة متنوعة من المأكولات من جميع أنحاء العالم وقد تم اعتماد التفرد في صناعة منتجاتنا ، وتخصيص ورش عمل لتحسين وابتكارمذاقات جديدة تميزنا",
+    "mission": "تطبيق المعايير العالمية حول الاغذية من أجل كسب ثقة عملائنا وولائهم وتهيئة المكان الملائم بأجواء هادئة تناسب تطلعاتهم",
+    "vision": "الريادة على المستوى المحلي والخروج للعالمية بجودة منتجاتنا ونشر علامتنا التجارية",
+    "values": "رفع الجودة عن طريق الإهتمام بصحة وسلامة الأغذية والإبداع والإبتكار فيما نقدمه وسرعة الإنجاز والعناية في خدمة عملائنا",
+    "products": "تفرد مشروباتنا بطابع خاص ومذاق مميز دائما ما نبحث على الأعلى جودة ولذلك قمنا بإنشاء معمل حلويات خاص بنا لصناعة الحلويات الطازجة والمعدة يوميا تقديراً لثقة عملائنا بنا."
+  },
+  "jobs": {
+    "message": "لا توجد وظائف شاغرة الآن.",
+    "positions": []
+  },
+  "media": [
+    {
+      "id": "media-1",
+      "image": "assets/logo.png",
+      "alt": ""
+    },
+    {
+      "id": "media-2",
+      "image": "assets/slider/media-gallery-2.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-3",
+      "image": "assets/slider/media-gallery-3.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-4",
+      "image": "assets/slider/media-gallery-4.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-5",
+      "image": "assets/slider/media-gallery-5.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-6",
+      "image": "assets/slider/media-gallery-6.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-7",
+      "image": "assets/slider/media-gallery-7.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-8",
+      "image": "assets/slider/media-gallery-8.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-9",
+      "image": "assets/slider/media-gallery-9.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-10",
+      "image": "assets/slider/media-gallery-10.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-11",
+      "image": "assets/slider/media-gallery-11.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-12",
+      "image": "assets/slider/media-gallery-12.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-13",
+      "image": "assets/slider/media-gallery-13.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-14",
+      "image": "assets/slider/media-gallery-14.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-15",
+      "image": "assets/slider/media-gallery-15.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-16",
+      "image": "assets/slider/media-gallery-16.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-17",
+      "image": "assets/slider/media-gallery-17.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-18",
+      "image": "assets/slider/media-gallery-18.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-19",
+      "image": "assets/slider/media-gallery-19.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-20",
+      "image": "assets/slider/media-gallery-20.webp",
+      "alt": ""
+    },
+    {
+      "id": "media-21",
+      "image": "assets/slider/media-gallery-21.webp",
+      "alt": ""
+    }
+  ],
+  "slider": [
+    {
+      "image": "assets/slider/home-slider-2.webp",
+      "alt": ""
+    },
+    {
+      "image": "assets/slider/home-slider-3.webp",
+      "alt": ""
+    },
+    {
+      "image": "assets/slider/home-slider-4.webp",
+      "alt": ""
+    },
+    {
+      "image": "assets/slider/home-slider-5.webp",
+      "alt": ""
+    },
+    {
+      "image": "assets/slider/home-slider-6.webp",
+      "alt": ""
+    },
+    {
+      "image": "assets/slider/home-slider-7.webp",
+      "alt": ""
+    },
+    {
+      "image": "assets/slider/home-slider-8.webp",
+      "alt": ""
+    },
+    {
+      "image": "assets/slider/home-slider-9.webp",
+      "alt": ""
+    },
+    {
+      "image": "assets/slider/home-slider-10.webp",
+      "alt": ""
+    }
+  ],
+  "pdfs": [
+    {
+      "label": "منيو الشباب - محلات الشارع",
+      "url": "https://tutticafe.net/viewPDF/23"
+    },
+    {
+      "label": "منيو الشباب - محلات المول",
+      "url": "https://tutticafe.net/viewPDF/24"
+    },
+    {
+      "label": "منيو العائلات - محلات الشارع",
+      "url": "https://tutticafe.net/viewPDF/25"
+    },
+    {
+      "label": "منيو العائلات - محلات المول",
+      "url": "https://tutticafe.net/viewPDF/26"
+    },
+    {
+      "label": "منيو فرع الروضة",
+      "url": "https://tutticafe.net/viewPDF/27"
+    },
+    {
+      "label": "منيو إضافي 28",
+      "url": "https://tutticafe.net/viewPDF/28"
+    },
+    {
+      "label": "منيو إضافي 29",
+      "url": "https://tutticafe.net/viewPDF/29"
+    },
+    {
+      "label": "منيو إضافي 30",
+      "url": "https://tutticafe.net/viewPDF/30"
+    },
+    {
+      "label": "منيو أبها",
+      "url": "https://tutticafe.net/viewPDF/31"
+    }
+  ],
+  "categories": [
+    {
+      "id": "Hot_Coffee",
+      "name": "القهوة الساخنة",
+      "image": "assets/menu/categories/category-9.webp"
+    },
+    {
+      "id": "Hot_Beverages",
+      "name": "المشروبات الساخنة",
+      "image": "assets/menu/categories/category-10.webp"
+    },
+    {
+      "id": "Fresh_Juices",
+      "name": "العصائر الطازجة",
+      "image": "assets/menu/categories/category-12.webp"
+    },
+    {
+      "id": "Soft_Drinks",
+      "name": "المشروبات الباردة",
+      "image": "assets/menu/categories/category-13.webp"
+    },
+    {
+      "id": "Iced_Drinks",
+      "name": "المشروبات المثلجة",
+      "image": "assets/menu/categories/category-11.webp"
+    },
+    {
+      "id": "Breakfast",
+      "name": "الإفطار",
+      "image": "assets/menu/categories/category-8.webp"
+    },
+    {
+      "id": "Dessert_And_Cakes",
+      "name": "الحلويات",
+      "image": "assets/menu/categories/category-14.webp"
+    },
+    {
+      "id": "Kids_Meal",
+      "name": "وجبات الأطفال",
+      "image": "assets/menu/categories/category-15.webp"
+    },
+    {
+      "id": "Appetizers",
+      "name": "المقبلات",
+      "image": "assets/menu/categories/category-16.webp"
+    },
+    {
+      "id": "Soups",
+      "name": "الشوربة",
+      "image": "assets/menu/categories/category-17.webp"
+    },
+    {
+      "id": "Lebanies_Dishes",
+      "name": "الأطباق اللبنانية",
+      "image": "assets/menu/categories/category-18.webp"
+    },
+    {
+      "id": "Salads",
+      "name": "السلطات",
+      "image": "assets/menu/categories/category-19.webp"
+    },
+    {
+      "id": "Beef",
+      "name": "اللحوم",
+      "image": "assets/menu/categories/category-20.webp"
+    },
+    {
+      "id": "Fish",
+      "name": "الأسماك",
+      "image": "assets/menu/categories/category-21.webp"
+    },
+    {
+      "id": "Sandwiches",
+      "name": "الساندويتشات",
+      "image": "assets/menu/categories/category-22.webp"
+    },
+    {
+      "id": "Chicken",
+      "name": "الدجاج",
+      "image": "assets/menu/categories/category-23.webp"
+    },
+    {
+      "id": "Cocktails",
+      "name": "الكوكتيلات",
+      "image": "assets/menu/categories/category-27.webp"
+    },
+    {
+      "id": "Pasta",
+      "name": "المكرونات",
+      "image": "assets/menu/categories/category-25.webp"
+    },
+    {
+      "id": "Pizza",
+      "name": "البيتزا",
+      "image": "assets/menu/categories/category-24.webp"
+    }
+  ],
+  "scraped_pages": {
+    "home": "https://tutticafe.net/",
+    "menu": "https://tutticafe.net/menu",
+    "branches": "https://tutticafe.net/branches",
+    "media": "https://tutticafe.net/media",
+    "jobs": "https://tutticafe.net/jobs",
+    "about": "https://tutticafe.net/about-us"
+  },
+  "source_notes": [
+    "المحتوى المستخرج من صفحات توتي كافيه العامة؛ الأسعار والأصناف المفقودة لا تُستكمل بالتخمين.",
+    "حقائق الاتصال والعنوان الاجتماعي الاحتياطي مأخوذة من موجز المالك المرفق."
+  ]
+}

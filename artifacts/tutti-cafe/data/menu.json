@@ -1,0 +1,2539 @@
+[
+  {
+    "id": "meal-33",
+    "category_id": "Hot_Coffee",
+    "category_name_ar": "القهوة الساخنة",
+    "name": "توتي موكا",
+    "description": "",
+    "image": "assets/menu/meal-33.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 14,
+        "calories": 297
+      },
+      {
+        "label": "وسط",
+        "price": 17,
+        "calories": 445
+      },
+      {
+        "label": "كبير",
+        "price": 21,
+        "calories": 594
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-36",
+    "category_id": "Hot_Coffee",
+    "category_name_ar": "القهوة الساخنة",
+    "name": "فرينش كابتشينو",
+    "description": "",
+    "image": "assets/menu/meal-36.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 14,
+        "calories": 297
+      },
+      {
+        "label": "وسط",
+        "price": 17,
+        "calories": 445
+      },
+      {
+        "label": "كبير",
+        "price": 21,
+        "calories": 594
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-39",
+    "category_id": "Hot_Coffee",
+    "category_name_ar": "القهوة الساخنة",
+    "name": "سويس لاتيه",
+    "description": "",
+    "image": "assets/menu/meal-39.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 14,
+        "calories": 279
+      },
+      {
+        "label": "وسط",
+        "price": 17,
+        "calories": 424
+      },
+      {
+        "label": "كبير",
+        "price": 21,
+        "calories": 559
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-42",
+    "category_id": "Hot_Coffee",
+    "category_name_ar": "القهوة الساخنة",
+    "name": "مكسيكي كابتشينو",
+    "description": "",
+    "image": "assets/menu/meal-42.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 14,
+        "calories": 297
+      },
+      {
+        "label": "وسط",
+        "price": 17,
+        "calories": 424
+      },
+      {
+        "label": "كبير",
+        "price": 21,
+        "calories": 594
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-45",
+    "category_id": "Hot_Coffee",
+    "category_name_ar": "القهوة الساخنة",
+    "name": "توفي كابتشينو",
+    "description": "",
+    "image": "assets/menu/meal-45.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 14,
+        "calories": 300
+      },
+      {
+        "label": "وسط",
+        "price": 17,
+        "calories": 445
+      },
+      {
+        "label": "كبير",
+        "price": 21,
+        "calories": 600
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-48",
+    "category_id": "Hot_Coffee",
+    "category_name_ar": "القهوة الساخنة",
+    "name": "كلاسيك لاتيه",
+    "description": "",
+    "image": "assets/menu/meal-48.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 10,
+        "calories": 116
+      },
+      {
+        "label": "وسط",
+        "price": 13,
+        "calories": 174
+      },
+      {
+        "label": "كبير",
+        "price": 16,
+        "calories": 232
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Hot_Coffee-21",
+    "category_id": "Hot_Coffee",
+    "category_name_ar": "القهوة الساخنة",
+    "name": "كراميل ماكياتو",
+    "description": "",
+    "image": null,
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 12,
+        "calories": 190
+      },
+      {
+        "label": "وسط",
+        "price": 15,
+        "calories": 289
+      },
+      {
+        "label": "كبير",
+        "price": 18,
+        "calories": 371
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-54",
+    "category_id": "Hot_Coffee",
+    "category_name_ar": "القهوة الساخنة",
+    "name": "قهوة أمريكية",
+    "description": "",
+    "image": "assets/menu/meal-54.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 7,
+        "calories": 0
+      },
+      {
+        "label": "وسط",
+        "price": 9,
+        "calories": 0
+      },
+      {
+        "label": "كبير",
+        "price": 11,
+        "calories": 0
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-56",
+    "category_id": "Hot_Coffee",
+    "category_name_ar": "القهوة الساخنة",
+    "name": "قهوة تركية",
+    "description": "",
+    "image": "assets/menu/meal-56.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 7,
+        "calories": 0
+      },
+      {
+        "label": "وسط",
+        "price": 9,
+        "calories": 0
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-58",
+    "category_id": "Hot_Coffee",
+    "category_name_ar": "القهوة الساخنة",
+    "name": "إسبريسو",
+    "description": "",
+    "image": "assets/menu/meal-58.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 7,
+        "calories": 0
+      },
+      {
+        "label": "وسط",
+        "price": 9,
+        "calories": 0
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-215",
+    "category_id": "Hot_Coffee",
+    "category_name_ar": "القهوة الساخنة",
+    "name": "سبانش لاتيه",
+    "description": "",
+    "image": "assets/menu/meal-215.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 14,
+        "calories": 279
+      },
+      {
+        "label": "وسط",
+        "price": 17,
+        "calories": 424
+      },
+      {
+        "label": "كبير",
+        "price": 21,
+        "calories": 569
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-61",
+    "category_id": "Hot_Beverages",
+    "category_name_ar": "المشروبات الساخنة",
+    "name": "شوكولاتة ساخنة",
+    "description": "",
+    "image": "assets/menu/meal-61.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 12,
+        "calories": 317
+      },
+      {
+        "label": "وسط",
+        "price": 14,
+        "calories": 475
+      },
+      {
+        "label": "كبير",
+        "price": 17,
+        "calories": 634
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Hot_Beverages-6",
+    "category_id": "Hot_Beverages",
+    "category_name_ar": "المشروبات الساخنة",
+    "name": "نيرفانا",
+    "description": "",
+    "image": null,
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 14,
+        "calories": 224
+      },
+      {
+        "label": "وسط",
+        "price": 17,
+        "calories": 336
+      },
+      {
+        "label": "كبير",
+        "price": 21,
+        "calories": 448
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-67",
+    "category_id": "Hot_Beverages",
+    "category_name_ar": "المشروبات الساخنة",
+    "name": "شاي كرك",
+    "description": "",
+    "image": "assets/menu/meal-67.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 12,
+        "calories": 238
+      },
+      {
+        "label": "وسط",
+        "price": 14,
+        "calories": 336
+      },
+      {
+        "label": "كبير",
+        "price": 17,
+        "calories": 472
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-80",
+    "category_id": "Fresh_Juices",
+    "category_name_ar": "العصائر الطازجة",
+    "name": "عصير التفاح",
+    "description": "",
+    "image": "assets/menu/meal-80.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 15,
+        "calories": 198
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-81",
+    "category_id": "Fresh_Juices",
+    "category_name_ar": "العصائر الطازجة",
+    "name": "عصير البرتقال",
+    "description": "",
+    "image": "assets/menu/meal-81.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 15,
+        "calories": 136
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-82",
+    "category_id": "Fresh_Juices",
+    "category_name_ar": "العصائر الطازجة",
+    "name": "عصير أناناس",
+    "description": "",
+    "image": "assets/menu/meal-82.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 15,
+        "calories": 180
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-83",
+    "category_id": "Fresh_Juices",
+    "category_name_ar": "العصائر الطازجة",
+    "name": "عصير مانجو",
+    "description": "",
+    "image": "assets/menu/meal-83.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 15,
+        "calories": 180
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-84",
+    "category_id": "Fresh_Juices",
+    "category_name_ar": "العصائر الطازجة",
+    "name": "عصير فراولة",
+    "description": "",
+    "image": "assets/menu/meal-84.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 18,
+        "calories": 194
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-85",
+    "category_id": "Fresh_Juices",
+    "category_name_ar": "العصائر الطازجة",
+    "name": "عصير ليمون",
+    "description": "",
+    "image": "assets/menu/meal-85.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 15,
+        "calories": 90
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-224",
+    "category_id": "Fresh_Juices",
+    "category_name_ar": "العصائر الطازجة",
+    "name": "عصير ليمون نعناع",
+    "description": "",
+    "image": "assets/menu/meal-224.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 19,
+        "calories": 160
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-86",
+    "category_id": "Soft_Drinks",
+    "category_name_ar": "المشروبات الباردة",
+    "name": "بيبسي",
+    "description": "",
+    "image": "assets/menu/meal-86.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 6,
+        "calories": 149
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-87",
+    "category_id": "Soft_Drinks",
+    "category_name_ar": "المشروبات الباردة",
+    "name": "سفن اب",
+    "description": "",
+    "image": "assets/menu/meal-87.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 6,
+        "calories": 67
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-88",
+    "category_id": "Soft_Drinks",
+    "category_name_ar": "المشروبات الباردة",
+    "name": "مياه معدنية",
+    "description": "",
+    "image": "assets/menu/meal-88.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 3,
+        "calories": 0
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-69",
+    "category_id": "Iced_Drinks",
+    "category_name_ar": "المشروبات المثلجة",
+    "name": "فرينش كراش",
+    "description": "",
+    "image": "assets/menu/meal-69.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 17,
+        "calories": 559
+      },
+      {
+        "label": "وسط",
+        "price": 21,
+        "calories": 746
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-71",
+    "category_id": "Iced_Drinks",
+    "category_name_ar": "المشروبات المثلجة",
+    "name": "موكا كراش",
+    "description": "",
+    "image": "assets/menu/meal-71.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 17,
+        "calories": 608
+      },
+      {
+        "label": "وسط",
+        "price": 21,
+        "calories": 808
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-73",
+    "category_id": "Iced_Drinks",
+    "category_name_ar": "المشروبات المثلجة",
+    "name": "أوريو / سنيكرز كراش",
+    "description": "",
+    "image": "assets/menu/meal-73.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 17,
+        "calories": 608
+      },
+      {
+        "label": "وسط",
+        "price": 21,
+        "calories": 1061
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-75",
+    "category_id": "Iced_Drinks",
+    "category_name_ar": "المشروبات المثلجة",
+    "name": "ايسد كراميل ماكياتو",
+    "description": "",
+    "image": "assets/menu/meal-75.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 15,
+        "calories": 228
+      },
+      {
+        "label": "وسط",
+        "price": 18,
+        "calories": 287
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-77",
+    "category_id": "Iced_Drinks",
+    "category_name_ar": "المشروبات المثلجة",
+    "name": "ايسد لاتيه",
+    "description": "",
+    "image": "assets/menu/meal-77.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 13,
+        "calories": 116
+      },
+      {
+        "label": "وسط",
+        "price": 16,
+        "calories": 174
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-79",
+    "category_id": "Iced_Drinks",
+    "category_name_ar": "المشروبات المثلجة",
+    "name": "ايسد تي (فراولة توت خوخ)",
+    "description": "",
+    "image": "assets/menu/meal-79.webp",
+    "sizes": [
+      {
+        "label": "صغير",
+        "price": 14,
+        "calories": 135
+      },
+      {
+        "label": "وسط",
+        "price": 17,
+        "calories": 180
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-204",
+    "category_id": "Iced_Drinks",
+    "category_name_ar": "المشروبات المثلجة",
+    "name": "ايسد سبانش لاتيه",
+    "description": "",
+    "image": "assets/menu/meal-204.webp",
+    "sizes": [
+      {
+        "label": "وسط",
+        "price": 17,
+        "calories": 827
+      },
+      {
+        "label": "كبير",
+        "price": 21,
+        "calories": 1061
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-17",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "اومليت",
+    "description": "مع إختيارك من الفطر أو الجبنة أو الخضار تقدم مع البطاطس المقلية",
+    "image": "assets/menu/meal-17.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 26,
+        "calories": 526
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-18",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "انجلش اومليت",
+    "description": "بيض يقدم مع باكين والطماطم",
+    "image": "assets/menu/meal-18.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 17,
+        "calories": 303
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-19",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "بيض بينديكت",
+    "description": "بيض ,جرجير ,صلصة الهولنديز يقدم مع بطاطا وطماطم مشوية ولحم مشوي",
+    "image": "assets/menu/meal-19.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 17,
+        "calories": 380
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-20",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "اوريجينال بان كيك",
+    "description": "عجينة من البان كيك المغطاه بالزبدة",
+    "image": "assets/menu/meal-20.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 17,
+        "calories": 168
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-21",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "كلاسيك فرانش توست",
+    "description": "فرينش توست مغطاه بالسكر والكريمة الطازجة",
+    "image": "assets/menu/meal-21.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 17,
+        "calories": 160
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-22",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "كريب بالجبنة",
+    "description": "",
+    "image": "assets/menu/meal-22.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 22,
+        "calories": 402
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-23",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "فول مدمس",
+    "description": "فول مدمس",
+    "image": "assets/menu/meal-23.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 13,
+        "calories": 793
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-24",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "ساندويتش حلوم مشوي",
+    "description": "جبنة الحلوم بالصلصة البيستو والخس والطماطم والخيار يقدم مع البطاطس المقلية",
+    "image": "assets/menu/meal-24.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 30,
+        "calories": 729
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-25",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "فطيرة بالجبنة",
+    "description": "فطيرة بالجبنة",
+    "image": "assets/menu/meal-25.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 10,
+        "calories": 428
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-27",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "فطيرة سبانخ",
+    "description": "فطيرة سبانخ",
+    "image": "assets/menu/meal-27.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 12,
+        "calories": 601
+      }
+    ],
+    "is_favorite": true
+  },
+  {
+    "id": "meal-28",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "كرواسان سادة",
+    "description": "",
+    "image": "assets/menu/meal-28.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 6,
+        "calories": 223
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-29",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "كرواسان جبنة",
+    "description": "",
+    "image": "assets/menu/meal-29.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 8,
+        "calories": 262
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-30",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "كرواسان شوكولاته",
+    "description": "كرواسان شوكولاته",
+    "image": "assets/menu/meal-30.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 8,
+        "calories": 330
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-119",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "ساندويتش جبنة",
+    "description": "ساندويتش جبنة جبنة الشيدر مع الخلطة الخاصة تقدم مع البطاطس المقلية",
+    "image": "assets/menu/meal-119.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 22,
+        "calories": 327
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-120",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "ساندويتش صب مارين",
+    "description": "مارتديلا مع الجبنة والخضار بالخلطة الخاصة تقدم مع البطاطس المقلية",
+    "image": "assets/menu/meal-120.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 28,
+        "calories": 548
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-121",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "فطيرة لبنة مع الزعتر",
+    "description": "",
+    "image": "assets/menu/meal-121.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 10,
+        "calories": 249
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-122",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "هوت دوق",
+    "description": "يقدم مع البطاطس القلية",
+    "image": "assets/menu/meal-122.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 20,
+        "calories": 394
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-125",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "كرواسان بالتونة",
+    "description": "",
+    "image": "assets/menu/meal-125.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 8,
+        "calories": 235
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-126",
+    "category_id": "Breakfast",
+    "category_name_ar": "الإفطار",
+    "name": "كريب بالشوكلاتة",
+    "description": "",
+    "image": "assets/menu/meal-126.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 15,
+        "calories": 330
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-89",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "تشيز كيك",
+    "description": "التوت البري - فراولة - أوريو",
+    "image": "assets/menu/meal-89.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 22,
+        "calories": 256
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-90",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "كيك الشيكولاته",
+    "description": "",
+    "image": "assets/menu/meal-90.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 22,
+        "calories": 279
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-91",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "كيك التمر",
+    "description": "",
+    "image": "assets/menu/meal-91.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 22,
+        "calories": 356
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-92",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "كيك الجزر",
+    "description": "",
+    "image": "assets/menu/meal-92.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 22,
+        "calories": 345
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-93",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "تيراميسو",
+    "description": "",
+    "image": "assets/menu/meal-93.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 15,
+        "calories": 205
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-94",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "سوفليه",
+    "description": "",
+    "image": "assets/menu/meal-94.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 15,
+        "calories": 465
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-95",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "فوندونت بالشيكولاته",
+    "description": "",
+    "image": "assets/menu/meal-95.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 15,
+        "calories": 416
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-118",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "مفن",
+    "description": "التوت البري - الشيكولاتة - دبل شيكولاتة",
+    "image": "assets/menu/meal-118.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 8,
+        "calories": 328
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-186",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "تراميسو كيك",
+    "description": "",
+    "image": "assets/menu/meal-186.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 22,
+        "calories": 244
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-187",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "دونات",
+    "description": "",
+    "image": "assets/menu/meal-187.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 8,
+        "calories": 290
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-188",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "راسبري رول",
+    "description": "",
+    "image": "assets/menu/meal-188.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 22,
+        "calories": 293
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-189",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "تربل شوكلت كيك",
+    "description": "",
+    "image": "assets/menu/meal-189.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 22,
+        "calories": 364
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-190",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "كوكيز",
+    "description": "",
+    "image": "assets/menu/meal-190.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 5,
+        "calories": 380
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-191",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "براونز ساده",
+    "description": "",
+    "image": "assets/menu/meal-191.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 5,
+        "calories": 450
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-192",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "اكلير شوكولاته",
+    "description": "",
+    "image": "assets/menu/meal-192.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 15,
+        "calories": 265
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-207",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "براونز دارك شيكولات",
+    "description": "",
+    "image": "assets/menu/meal-207.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 5,
+        "calories": 444
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-208",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "براونز ميلك شيكولات",
+    "description": "",
+    "image": "assets/menu/meal-208.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 5,
+        "calories": 460
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-210",
+    "category_id": "Dessert_And_Cakes",
+    "category_name_ar": "الحلويات",
+    "name": "تراميسو",
+    "description": "",
+    "image": "assets/menu/meal-210.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 15,
+        "calories": 205
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-127",
+    "category_id": "Kids_Meal",
+    "category_name_ar": "وجبات الأطفال",
+    "name": "ثلاث قطع صغيرة من برجر الدجاج تقدم مع البطاطس المقلية",
+    "description": "",
+    "image": "assets/menu/meal-127.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 27,
+        "calories": 354
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-128",
+    "category_id": "Kids_Meal",
+    "category_name_ar": "وجبات الأطفال",
+    "name": "ثلاث قطع صغيرة من برجر اللحم تقدم مع البطاطس المقلية",
+    "description": "",
+    "image": "assets/menu/meal-128.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 27,
+        "calories": 400
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Kids_Meal-3",
+    "category_id": "Kids_Meal",
+    "category_name_ar": "وجبات الأطفال",
+    "name": "أصابع الدجاج تقدم مع البطاطس المقلية",
+    "description": "",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 25,
+        "calories": 668
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Kids_Meal-4",
+    "category_id": "Kids_Meal",
+    "category_name_ar": "وجبات الأطفال",
+    "name": "مكرونة بصلصة الجبنة",
+    "description": "",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 28,
+        "calories": 569
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-131",
+    "category_id": "Appetizers",
+    "category_name_ar": "المقبلات",
+    "name": "كاساديا",
+    "description": "كاساديا (دجاج أو لحم أو ربيان)",
+    "image": "assets/menu/meal-131.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": null,
+        "calories": 386
+      }
+    ],
+    "is_favorite": true
+  },
+  {
+    "id": "meal-Appetizers-2",
+    "category_id": "Appetizers",
+    "category_name_ar": "المقبلات",
+    "name": "سبرنغ رول",
+    "description": "رقائق السبرنغ رول محشية بالخضار تقدم مع إختيارك من الصلصات الحلوة الحامضة أو الصويا",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 28,
+        "calories": 454
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-133",
+    "category_id": "Appetizers",
+    "category_name_ar": "المقبلات",
+    "name": "سلطة باذنجان",
+    "description": "خليط من الخضروات مع الباذنجان, صوص الطراطور بطاطس شيبس",
+    "image": "assets/menu/meal-133.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 20,
+        "calories": 203
+      }
+    ],
+    "is_favorite": true
+  },
+  {
+    "id": "meal-134",
+    "category_id": "Appetizers",
+    "category_name_ar": "المقبلات",
+    "name": "بطاطس مقلية كلاسيكية",
+    "description": "",
+    "image": "assets/menu/meal-134.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 7,
+        "calories": 160
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-206",
+    "category_id": "Appetizers",
+    "category_name_ar": "المقبلات",
+    "name": "باستا تشيز بوول",
+    "description": "",
+    "image": "assets/menu/meal-206.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 26,
+        "calories": 458
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-212",
+    "category_id": "Appetizers",
+    "category_name_ar": "المقبلات",
+    "name": "ديناميت الربيان",
+    "description": "",
+    "image": "assets/menu/meal-212.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 21,
+        "calories": 443
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-135",
+    "category_id": "Soups",
+    "category_name_ar": "الشوربة",
+    "name": "شوربة كريمة الدجاج",
+    "description": "",
+    "image": "assets/menu/meal-135.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 22,
+        "calories": 343
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Soups-2",
+    "category_id": "Soups",
+    "category_name_ar": "الشوربة",
+    "name": "شوربة الفطر",
+    "description": "",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 22,
+        "calories": 373
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-137",
+    "category_id": "Lebanies_Dishes",
+    "category_name_ar": "الأطباق اللبنانية",
+    "name": "حمص",
+    "description": "",
+    "image": "assets/menu/meal-137.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 12,
+        "calories": 365
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-138",
+    "category_id": "Lebanies_Dishes",
+    "category_name_ar": "الأطباق اللبنانية",
+    "name": "تبولة",
+    "description": "",
+    "image": "assets/menu/meal-138.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 28,
+        "calories": 244
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-139",
+    "category_id": "Lebanies_Dishes",
+    "category_name_ar": "الأطباق اللبنانية",
+    "name": "ورق عنب",
+    "description": "",
+    "image": "assets/menu/meal-139.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 28,
+        "calories": 247
+      }
+    ],
+    "is_favorite": true
+  },
+  {
+    "id": "meal-140",
+    "category_id": "Lebanies_Dishes",
+    "category_name_ar": "الأطباق اللبنانية",
+    "name": "كبة باللبن",
+    "description": "",
+    "image": "assets/menu/meal-140.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 42,
+        "calories": 388
+      }
+    ],
+    "is_favorite": true
+  },
+  {
+    "id": "meal-141",
+    "category_id": "Lebanies_Dishes",
+    "category_name_ar": "الأطباق اللبنانية",
+    "name": "سمبوسة بالجبن",
+    "description": "",
+    "image": "assets/menu/meal-141.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 24,
+        "calories": 807
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-142",
+    "category_id": "Lebanies_Dishes",
+    "category_name_ar": "الأطباق اللبنانية",
+    "name": "كبة اقراص باللحمة",
+    "description": "",
+    "image": "assets/menu/meal-142.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 28,
+        "calories": 989
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-143",
+    "category_id": "Lebanies_Dishes",
+    "category_name_ar": "الأطباق اللبنانية",
+    "name": "شيش بريك",
+    "description": "",
+    "image": "assets/menu/meal-143.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 42,
+        "calories": 263
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-220",
+    "category_id": "Lebanies_Dishes",
+    "category_name_ar": "الأطباق اللبنانية",
+    "name": "سمبوسة بالحم",
+    "description": "",
+    "image": "assets/menu/meal-220.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 25,
+        "calories": 617
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-221",
+    "category_id": "Lebanies_Dishes",
+    "category_name_ar": "الأطباق اللبنانية",
+    "name": "سمبوسة بالسبانخ",
+    "description": "",
+    "image": "assets/menu/meal-221.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 24,
+        "calories": 700
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-144",
+    "category_id": "Salads",
+    "category_name_ar": "السلطات",
+    "name": "سلطة روكا",
+    "description": "ورق جرجير طازج ممزوج مع طماطم كرزية مقطعة فطر شرائح صلصة حامض يعلوها جبنة بارميزان .",
+    "image": "assets/menu/meal-144.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 18,
+        "calories": 294
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Salads-2",
+    "category_id": "Salads",
+    "category_name_ar": "السلطات",
+    "name": "سلطة مكسيكية",
+    "description": "تورتيا خس جبنة. دجاج مشوي مع صوص مكسيكي",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 32,
+        "calories": 980
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-146",
+    "category_id": "Salads",
+    "category_name_ar": "السلطات",
+    "name": "سلطة سيزر",
+    "description": "خس جبنة بارميزان تقدم مع صلصة السيزر",
+    "image": "assets/menu/meal-146.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 18,
+        "calories": 22
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-147",
+    "category_id": "Salads",
+    "category_name_ar": "السلطات",
+    "name": "سلطة سيزر بالدجاج",
+    "description": "خس ,جبنة بارميزان تقدم مع صلصة السيزر والدجاج",
+    "image": "assets/menu/meal-147.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 22,
+        "calories": 605
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-148",
+    "category_id": "Salads",
+    "category_name_ar": "السلطات",
+    "name": "سلطة الحلوم",
+    "description": "خس( 3أنواع ) بقلة بقدونس خيار طماطم وجبنة الحلوم المشوي بالصلصة الخاصة",
+    "image": "assets/menu/meal-148.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 35,
+        "calories": 316
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-218",
+    "category_id": "Salads",
+    "category_name_ar": "السلطات",
+    "name": "سلطة البيتروت",
+    "description": "",
+    "image": "assets/menu/meal-218.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 22,
+        "calories": 249
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-219",
+    "category_id": "Salads",
+    "category_name_ar": "السلطات",
+    "name": "سلطة الكينوا",
+    "description": "",
+    "image": "assets/menu/meal-219.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 28,
+        "calories": 157
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-149",
+    "category_id": "Beef",
+    "category_name_ar": "اللحوم",
+    "name": "فيليه بصلصة الفطر",
+    "description": "يقدم مع الخضار والبطاطس المقلية",
+    "image": "assets/menu/meal-149.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 50,
+        "calories": 1099
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Beef-2",
+    "category_id": "Beef",
+    "category_name_ar": "اللحوم",
+    "name": "لحم ستروجنوف",
+    "description": "فيليه اللحم مع البصل والفطر يقدم مع الأرز",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 48,
+        "calories": 748
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-223",
+    "category_id": "Beef",
+    "category_name_ar": "اللحوم",
+    "name": "فيليه تندرليون اسكالوب",
+    "description": "",
+    "image": "assets/menu/meal-223.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 52,
+        "calories": 858
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-151",
+    "category_id": "Fish",
+    "category_name_ar": "الأسماك",
+    "name": "سمك مشوي",
+    "description": "فيليه سمك مشوي مع صلصة الكولان يقدم مع الخضار والبطاطس المقلية",
+    "image": "assets/menu/meal-151.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 55,
+        "calories": 563
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Fish-2",
+    "category_id": "Fish",
+    "category_name_ar": "الأسماك",
+    "name": "سمك بانيه",
+    "description": "مع صلصة التارتار يقدم مع الخضار والبطاطس المقلية",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 55,
+        "calories": 1037
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-153",
+    "category_id": "Fish",
+    "category_name_ar": "الأسماك",
+    "name": "سمك بصلصة الفطر",
+    "description": "فيليه سمك يقدم مع الأرز",
+    "image": "assets/menu/meal-153.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 55,
+        "calories": 896
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Fish-4",
+    "category_id": "Fish",
+    "category_name_ar": "الأسماك",
+    "name": "جمبرى هاواي",
+    "description": "جمبري مع الخضار يقدم مع الأرز بالزعفران",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 50,
+        "calories": 715
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Fish-5",
+    "category_id": "Fish",
+    "category_name_ar": "الأسماك",
+    "name": "فيليه السمك",
+    "description": "فيليه السمك مع حشوة الخضار يقدم مع البطاطس المقلية",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 55,
+        "calories": 735
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-156",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "مكسيكان تاكوس بالدجاج",
+    "description": "ثلاث حبات من خبز التاكوس محشوة خس طماطم, جبنة, فاصولياء حمراء و جواكامولي, مع الدجاج",
+    "image": "assets/menu/meal-156.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 38,
+        "calories": 560
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-157",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "بانيني بجبنة الموزاريلا",
+    "description": "جبنة الموزاريلا مع الطماطم والحبق وصلصة الزيتون",
+    "image": "assets/menu/meal-157.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 27,
+        "calories": 666
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-158",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "ساندويتش التونة",
+    "description": "مع الفلفل الأخضروخلطة المايونيز",
+    "image": "assets/menu/meal-158.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 22,
+        "calories": 497
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-159",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "ساندويتش ستيك",
+    "description": "لحم ستيك مع الجبنة بصلصة الفطر",
+    "image": "assets/menu/meal-159.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 29,
+        "calories": 561
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-160",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "كلوب ساندويتش",
+    "description": "مارتديلا بيض طماطم خس وجبة تقدم فى خبز التوست",
+    "image": "assets/menu/meal-160.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 27,
+        "calories": 442
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Sandwiches-6",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "ساندويتش جمبري",
+    "description": "جمبري مع الخلطة الخاصة",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 32,
+        "calories": 606
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Sandwiches-7",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "دجاج سبريم",
+    "description": "قطع من صدر الدجاج مع الفلفل الأخضر والبصل بالصلصة الكلاسيكية",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 30,
+        "calories": 496
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-163",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "كلاسيك همبرجر",
+    "description": "",
+    "image": "assets/menu/meal-163.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 27,
+        "calories": 437
+      }
+    ],
+    "is_favorite": true
+  },
+  {
+    "id": "meal-165",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "بيبي برجر دجاج",
+    "description": "ثلاث قطع صغيرة من برجر الدجاج",
+    "image": "assets/menu/meal-165.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 25,
+        "calories": 437
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-166",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "بيبي برجر لحم",
+    "description": "ثلاث قطع صفيرة من برجر اللحم",
+    "image": "assets/menu/meal-166.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 27,
+        "calories": 400
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-167",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "ساندويتش شاورما ( دجاج)",
+    "description": "",
+    "image": "assets/menu/meal-167.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 21,
+        "calories": 406
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-168",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "ساندويتش الدجاج المشوي",
+    "description": "قطع من صدر الدجاج المشوي مع الصلصة الخاصة",
+    "image": "assets/menu/meal-168.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 30,
+        "calories": 496
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-169",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "فاهيتا ساندويتش دجاج",
+    "description": "قطع من صدر الدجاج تقدم مع الفلفل الأخضر والفطر والبصل والخس والذرة والجبنة الموزاريلا والمايونيز والصلصة الخاصة",
+    "image": "assets/menu/meal-169.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 30,
+        "calories": 601
+      }
+    ],
+    "is_favorite": true
+  },
+  {
+    "id": "meal-170",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "فاهيتا ساندويتش اللحم",
+    "description": "قطع من اللحم تقدم مع الفلفل الأخضر والفطر والبصل والخس والذرة والجبنة الموزاريلا والمايونيز والصلصة الخاصة",
+    "image": "assets/menu/meal-170.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 30,
+        "calories": 608
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Sandwiches-15",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "فاهيتا ساندويتش الجمبري",
+    "description": "قطع من الشرمب تقدم مع الفلفل الأخضر والفطر والبصل والخس والذرة والجبنة الموزاريلا والمايونيز والصلصة الخاصة",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 30,
+        "calories": 635
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-209",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "برجر الدجاج",
+    "description": "",
+    "image": "assets/menu/meal-209.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 20,
+        "calories": 440
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-213",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "ساندوتش الخضار المشوي",
+    "description": "",
+    "image": "assets/menu/meal-213.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 24,
+        "calories": 541
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-214",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "ساندوتش التونه الحارة",
+    "description": "",
+    "image": "assets/menu/meal-214.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 21,
+        "calories": 497
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-226",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "مكسيكان تاكوس باللحم",
+    "description": "ثلاث حبات من خبز التاكوس محشوة خس طماطم, جبنة, فاصولياء حمراء و جواكامولي, مع اللحم",
+    "image": "assets/menu/meal-226.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 42,
+        "calories": 518
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-227",
+    "category_id": "Sandwiches",
+    "category_name_ar": "الساندويتشات",
+    "name": "مكسيكان تاكوس بالربيان",
+    "description": "ثلاث حبات من خبز التاكوس محشوة خس طماطم, جبنة, فاصولياء حمراء و جواكامولي, مع الربيان",
+    "image": "assets/menu/meal-227.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 44,
+        "calories": 446
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Chicken-1",
+    "category_id": "Chicken",
+    "category_name_ar": "الدجاج",
+    "name": "اسكالوب دجاج مقلي",
+    "description": "يقدم مع الخضار والبطاطس المقلية",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 45,
+        "calories": 719
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Chicken-2",
+    "category_id": "Chicken",
+    "category_name_ar": "الدجاج",
+    "name": "دجاج بصلصة الليمون",
+    "description": "صدر دجاج مشوي يطهى بصلصة الليمون ويقدم مع الخضار والبطاطس المقلية",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 48,
+        "calories": 897
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-174",
+    "category_id": "Chicken",
+    "category_name_ar": "الدجاج",
+    "name": "دجاج بصلصة الفطر",
+    "description": "يقدم مع الخضار والبطاطس المقلية ٤٨ ريال ٩٧ سعرحراري",
+    "image": "assets/menu/meal-174.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 48,
+        "calories": 897
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Chicken-4",
+    "category_id": "Chicken",
+    "category_name_ar": "الدجاج",
+    "name": "دجاج سترو جنوف",
+    "description": "دجاج مع البصل والفطر يقدم مع الأرز",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 48,
+        "calories": 741
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Chicken-5",
+    "category_id": "Chicken",
+    "category_name_ar": "الدجاج",
+    "name": "فيلادلفيا بوليه",
+    "description": "دجاج محشى بالجبن والسبائخ مع الخبز المحمص وصوص الفيلادلفيا الخاصة يقدم مع البطاطس المقلية",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 48,
+        "calories": 887
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Chicken-6",
+    "category_id": "Chicken",
+    "category_name_ar": "الدجاج",
+    "name": "دجاج بالكاري مع الأرذ",
+    "description": "دجاج مع الفطر والفلفل الأخضر والجزر وصلصة الكاري الخاصة يقدم مع الأرز",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 48,
+        "calories": 627
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-211",
+    "category_id": "Chicken",
+    "category_name_ar": "الدجاج",
+    "name": "دجاج البارميجيانا",
+    "description": "",
+    "image": "assets/menu/meal-211.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 36,
+        "calories": 578
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Cocktails-2",
+    "category_id": "Cocktails",
+    "category_name_ar": "الكوكتيلات",
+    "name": "منت رويال",
+    "description": "نعناع سفن اب ليمون اخضر",
+    "image": null,
+    "sizes": [
+      {
+        "label": "وسط",
+        "price": 19,
+        "calories": 142
+      },
+      {
+        "label": "كبير",
+        "price": 23,
+        "calories": 190
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Cocktails-4",
+    "category_id": "Cocktails",
+    "category_name_ar": "الكوكتيلات",
+    "name": "بنك بابلز",
+    "description": "برتقال كمثر فراولة عنب أسود",
+    "image": null,
+    "sizes": [
+      {
+        "label": "وسط",
+        "price": 21,
+        "calories": 193
+      },
+      {
+        "label": "كبير",
+        "price": 25,
+        "calories": 258
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Cocktails-5",
+    "category_id": "Cocktails",
+    "category_name_ar": "الكوكتيلات",
+    "name": "بلو كوكتيل",
+    "description": "",
+    "image": null,
+    "sizes": [
+      {
+        "label": "كبير",
+        "price": 23,
+        "calories": 542
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Cocktails-6",
+    "category_id": "Cocktails",
+    "category_name_ar": "الكوكتيلات",
+    "name": "ريد بول كوكتيل",
+    "description": "فرولة-توت-رمان-بطيخ",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 24,
+        "calories": 185
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Cocktails-8",
+    "category_id": "Cocktails",
+    "category_name_ar": "الكوكتيلات",
+    "name": "الفصول الاربعة",
+    "description": "مانجو- أناناس - برتقال ليمون أخضر",
+    "image": null,
+    "sizes": [
+      {
+        "label": "وسط",
+        "price": 19,
+        "calories": 224
+      },
+      {
+        "label": "كبير",
+        "price": 23,
+        "calories": 185
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-Cocktails-10",
+    "category_id": "Cocktails",
+    "category_name_ar": "الكوكتيلات",
+    "name": "ساندي كوكتيل",
+    "description": "كيوي ليمون تفاح أخضر خليط من الفواكة الطازجة",
+    "image": null,
+    "sizes": [
+      {
+        "label": "وسط",
+        "price": 21,
+        "calories": 224
+      },
+      {
+        "label": "كبير",
+        "price": 25,
+        "calories": 165
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-182",
+    "category_id": "Pasta",
+    "category_name_ar": "المكرونات",
+    "name": "بيني أرابياتا",
+    "description": "تقدم مع إختيارك من الدجاج أو الربيان",
+    "image": "assets/menu/meal-182.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 28,
+        "calories": 294
+      }
+    ],
+    "is_favorite": true
+  },
+  {
+    "id": "meal-Pasta-2",
+    "category_id": "Pasta",
+    "category_name_ar": "المكرونات",
+    "name": "تورتيليني",
+    "description": "تورتيليني محشية بالسبانخ وجبنة ريكوتا",
+    "image": null,
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 45,
+        "calories": 827
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-184",
+    "category_id": "Pasta",
+    "category_name_ar": "المكرونات",
+    "name": "باستا مع الدجاج والمشروم",
+    "description": "بصلصة الشيف الخاصة",
+    "image": "assets/menu/meal-184.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 45,
+        "calories": 522
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-185",
+    "category_id": "Pasta",
+    "category_name_ar": "المكرونات",
+    "name": "لازانيا",
+    "description": "بالحم مع الخضار",
+    "image": "assets/menu/meal-185.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 45,
+        "calories": 700
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-222",
+    "category_id": "Pasta",
+    "category_name_ar": "المكرونات",
+    "name": "فتوتشيني الفريدو",
+    "description": "",
+    "image": "assets/menu/meal-222.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 30,
+        "calories": 578
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-225",
+    "category_id": "Pasta",
+    "category_name_ar": "المكرونات",
+    "name": "ماك أند تشيز",
+    "description": "",
+    "image": "assets/menu/meal-225.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 22,
+        "calories": 1008
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-178",
+    "category_id": "Pizza",
+    "category_name_ar": "البيتزا",
+    "name": "بيتزا مرجريتا",
+    "description": "",
+    "image": "assets/menu/meal-178.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 38,
+        "calories": 796
+      }
+    ],
+    "is_favorite": true
+  },
+  {
+    "id": "meal-179",
+    "category_id": "Pizza",
+    "category_name_ar": "البيتزا",
+    "name": "بيتزا الخضار",
+    "description": "",
+    "image": "assets/menu/meal-179.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 42,
+        "calories": 823
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-180",
+    "category_id": "Pizza",
+    "category_name_ar": "البيتزا",
+    "name": "بيتزا دجاج",
+    "description": "",
+    "image": "assets/menu/meal-180.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 42,
+        "calories": 875
+      }
+    ],
+    "is_favorite": false
+  },
+  {
+    "id": "meal-181",
+    "category_id": "Pizza",
+    "category_name_ar": "البيتزا",
+    "name": "بيتزا بيبروني",
+    "description": "",
+    "image": "assets/menu/meal-181.webp",
+    "sizes": [
+      {
+        "label": "عادي",
+        "price": 42,
+        "calories": 1025
+      }
+    ],
+    "is_favorite": false
+  }
+]
