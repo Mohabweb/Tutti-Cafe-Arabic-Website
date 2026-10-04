@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Tutti Cafe"
+description = "An Arabic-only, right-to-left website for Tutti Cafe featuring a verified menu, branch information, brand story, media gallery, and careers details."
+version = "1.0.0"
+id = "artifacts/tutti-cafe"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19896
+
+[services.development]
+run = "pnpm --filter @workspace/tutti-cafe run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/tutti-cafe", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/tutti-cafe/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19896"
+BASE_PATH = "/"
